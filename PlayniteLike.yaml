@@ -4,3 +4,11 @@ Packages:
     RequiredApiVersion: 2.3.0
     ReleaseDate: 2022-09-28
     PackageUrl: https://github.com/Kosnix/PlayniteLike/releases/download/1.0.0/PlayniteLike.1.0.0.pthm
+  - Version: 1.0.1
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-09-29
+    PackageUrl: https://github.com/Kosnix/PlayniteLike/releases/download/1.0.1/PlayniteLike.1.0.1.pthm
+    Changelog:
+      - Borders are now animated
+      - Improvements in the main view
+      - bug fix
