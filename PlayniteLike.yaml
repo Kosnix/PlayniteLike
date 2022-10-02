@@ -12,3 +12,9 @@ Packages:
       - Borders are now animated
       - Improvements in the main view
       - bug fix
+  - Version: 1.0.2
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-02
+    PackageUrl: https://github.com/Kosnix/PlayniteLike/releases/download/1.0.2/PlayniteLike.1.0.2.pthm
+    Changelog:
+      - Trailers now start from 7 seconds
