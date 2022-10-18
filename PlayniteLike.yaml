@@ -20,7 +20,7 @@ Packages:
       - Trailers now start from 7 seconds
    - Version: 1.0.3
     RequiredApiVersion: 2.3.0
-    ReleaseDate: 2022-10-1/
+    ReleaseDate: 2022-10-18
     PackageUrl: https://github.com/Kosnix/PlayniteLike/releases/download/1.0.3/PlayniteLike.1.0.3.pthm
     Changelog:
       - LB and RB buttons are now the official buttons
