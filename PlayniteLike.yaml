@@ -24,3 +24,10 @@ Packages:
     PackageUrl: https://github.com/Kosnix/PlayniteLike/releases/download/1.0.3/PlayniteLike.1.0.3.pthm
     Changelog:
       - LB and RB buttons are now the official buttons
+  - Version: 1.0.4
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2024-01-06
+    PackageUrl: https://github.com/Kosnix/PlayniteLike/releases/download/1.0.4/PlayniteLike.1.0.4.pthm
+    Changelog:
+      - Now compatible with 16:10 screens (Thanks momir76)
+      - Fixed a bug with the display of the launcher logo
